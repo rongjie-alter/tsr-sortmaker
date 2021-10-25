@@ -330,12 +330,12 @@ async function loadList() {
 		{name: "Todd", url: "TSR/Todd.jpg"},
 		{name: "William", url: "TSR/William.jpg"},
 		{name: "Yao", url: "TSR/Yao.jpg"},
-		{name: "Andy", url: "TSR/Andy.jpg"},
-		{name: "Franz", url: "TSR/Franz.jpg"},
-		{name: "Hattie", url: "TSR/Hattie.jpg"},
-		{name: "Kane", url: "TSR/Kane.jpg"},
-		{name: "Reed", url: "TSR/Reed.jpg"},
-		{name: "Samuel", url: "TSR/Samuel.jpg"},
+		{name: "Andy", url: "TSR/Andy.png"},
+		{name: "Franz", url: "TSR/Franz.png"},
+		{name: "Hattie", url: "TSR/Hattie.png"},
+		{name: "Kane", url: "TSR/Kane.png"},
+		{name: "Reed", url: "TSR/Reed.png"},
+		{name: "Samuel", url: "TSR/Samuel.png"},
 	]
 }
 
