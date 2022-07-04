@@ -339,6 +339,7 @@ async function loadList() {
 		{name: "Caldwell", url: "TSR/Caldwell.png"},
 		{name: "Tsela", url: "TSR/Tsela.png"},
 		{name: "Yiska", url: "TSR/Yiska.png"},
+		{name: "Cordelia", url: "TSR/Cordelia.jpg"},
 	]
 }
 
